@@ -92,4 +92,4 @@ The app utilizes a custom binary format to track files by their last modified ti
 
 ## License
 
-[Specify License Type, e.g., MIT]
+This project is licensed under the MIT license
