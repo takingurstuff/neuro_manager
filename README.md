@@ -16,8 +16,8 @@ This project requires **Python 3.13** or higher and uses `uv` for dependency man
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd neuro-manager
+git clone https://github.com/takingurstuff/neuro_manager
+cd neuro_manager
 
 # Install dependencies
 uv sync
